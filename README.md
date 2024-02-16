@@ -10,6 +10,9 @@ Puedes encontrar el curso [aca]([enlace-del-curso](https://www.udemy.com/course/
 
 ## Tecnologías Utilizadas
 
-![Node.js](https://img.shields.io/badge/Node.js-v14.17.3-green)
-![Express.js](https://img.shields.io/badge/Express.js-v4.17.1-blue)
-![MongoDB](https://img.shields.io/badge/MongoDB-v4.4.1-brightgreen)
+- ![Node.js](https://img.shields.io/badge/Node.js-green)
+- ![Express.js](https://img.shields.io/badge/Express.js-blue)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-brightgreen)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-blue)
+- ![MySQL](https://img.shields.io/badge/MySQL-blue)
+- ![Socket.io](https://img.shields.io/badge/Socket.io-grey)
