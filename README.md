@@ -1,14 +1,14 @@
-# Curso de Node: De cero a experto
+# Node Course: From Zero to Expert
 
-impartido por **Fernando Herrera** en Udemy
+Taught by **Fernando Herrera** on Udemy
 
-Este repositorio contiene los materiales y ejercicios del curso de Node.js que he completado. El curso cubre conceptos fundamentales de Node.js, desarrollo de aplicaciones backend y otras tecnologías relacionadas.
+This repository contains the materials and exercises from the Node.js course that I have completed. The course covers fundamental concepts of Node.js, backend application development, and other related technologies.
 
-## Enlace al Curso
+## Course Link
 
-Puedes encontrar el curso [aquí](https://www.udemy.com/course/node-de-cero-a-experto/).
+You can find the course link [here](https://www.udemy.com/course/node-de-cero-a-experto/) to view its content.
 
-## Tecnologías Utilizadas
+## Technologies Used
 
 - ![Node.js](https://img.shields.io/badge/Node.js-green)
 - ![Express.js](https://img.shields.io/badge/Express.js-blue)
@@ -16,3 +16,5 @@ Puedes encontrar el curso [aquí](https://www.udemy.com/course/node-de-cero-a-ex
 - ![TypeScript](https://img.shields.io/badge/TypeScript-blue)
 - ![MySQL](https://img.shields.io/badge/MySQL-blue)
 - ![Socket.io](https://img.shields.io/badge/Socket.io-grey)
+
+---
