@@ -6,7 +6,7 @@ Este repositorio contiene los materiales y ejercicios del curso de Node.js que h
 
 ## Enlace al Curso
 
-Puedes encontrar el curso [aca]([enlace-del-curso](https://www.udemy.com/course/node-de-cero-a-experto/)).
+Puedes encontrar el curso [aquí](https://www.udemy.com/course/node-de-cero-a-experto/).
 
 ## Tecnologías Utilizadas
 
