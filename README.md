@@ -26,9 +26,5 @@ Podes encontrar el enlace del curso [aca](https://www.udemy.com/course/node-de-c
 
 ## Tecnologías Utilizadas
 
-- ![Node.js](https://img.shields.io/badge/Node.js-green)
-- ![Express.js](https://img.shields.io/badge/Express.js-blue)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-brightgreen)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-blue)
-- ![MySQL](https://img.shields.io/badge/MySQL-blue)
-- ![Socket.io](https://img.shields.io/badge/Socket.io-grey)
+![Node.js](https://img.shields.io/badge/Node.js-green) ![Express.js](https://img.shields.io/badge/Express.js-blue) ![MongoDB](https://img.shields.io/badge/MongoDB-brightgreen) ![TypeScript](https://img.shields.io/badge/TypeScript-blue) ![MySQL](https://img.shields.io/badge/MySQL-blue) ![Socket.io](https://img.shields.io/badge/Socket.io-grey)
+
